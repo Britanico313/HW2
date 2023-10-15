@@ -7,7 +7,7 @@ body {
 }
 main {
     margin: 0 auto;
-    width: 800ppx;
+    width: 80%;
 }
 .details {
     display: Flex;
