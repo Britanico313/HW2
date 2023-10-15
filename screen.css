@@ -10,7 +10,7 @@ main {
     width: 800ppx;
 }
 .details {
-    display: flex;
+    display: Flex;
 }
 img {
     width: 100%;
