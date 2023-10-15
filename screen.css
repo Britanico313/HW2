@@ -12,6 +12,9 @@ main {
 .details {
     display: Flex;
 }
+.details section {
+    flex-grow: 1;
+}
 img {
     width: 100%;
 }
